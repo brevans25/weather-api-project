@@ -1,4 +1,2 @@
 # weather-api-project
-# weather-api-project
-# weather-api-project
-# weather-api-project
+Fetching data from the Weather API.
